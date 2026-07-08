@@ -1,1 +1,227 @@
+# 🚀 Supply Chain Analysis | End-to-End Data Analytics Project
 
+## 📌 Project Overview
+
+This project demonstrates an end-to-end **Supply Chain Analysis** solution using **Microsoft Excel, PostgreSQL, SQL, Power Query, and Power BI**. The objective is to transform raw supply chain data into meaningful business insights through ETL, data modeling, SQL analysis, and interactive dashboards.
+
+The project follows a complete Business Intelligence workflow, enabling organizations to monitor sales performance, customer behavior, product performance, logistics efficiency, and operational KPIs for data-driven decision-making.
+
+---
+
+## 📊 Project Highlights
+
+- Processed **180,000+ supply chain records**
+- Performed **ETL** using Power Query
+- Cleaned and transformed raw data
+- Built a **Star Schema** data model
+- Created **45+ SQL analytical queries**
+- Developed an **Excel Executive Report**
+- Built **5 interactive Power BI dashboards**
+- Generated business insights and strategic recommendations
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Power Query
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- Star Schema Data Modeling
+- Git & GitHub
+
+---
+
+## 📁 Project Structure
+
+```
+Supply Chain Analysis
+│
+├── Dataset
+├── Excel Report
+├── PostgreSQL Database
+├── SQL Queries
+├── Data Model
+├── Power BI Dashboard
+├── Project Report
+└── Images
+```
+
+---
+
+# 📈 Dashboards
+
+### 1️⃣ Supply Chain Executive Dashboard
+
+- Sales Overview
+- Profit Analysis
+- Orders & Customers
+- Regional Performance
+- Monthly Trends
+
+---
+
+### 2️⃣ Customer Dashboard
+
+- Customer Segmentation
+- Top Customers
+- Customer Geography
+- Average Customer Spend
+- Monthly Customer Trends
+
+---
+
+### 3️⃣ Product Performance Dashboard
+
+- Category Performance
+- Top Products
+- Product Profitability
+- Quantity Analysis
+- Product Demand
+
+---
+
+### 4️⃣ Logistics Dashboard
+
+- Delivery Status
+- Shipping Performance
+- Shipping Mode Analysis
+- Late Delivery Analysis
+- Order Status
+
+---
+
+### 5️⃣ Low Performer Dashboard
+
+- Low Performing Products
+- Weak Categories
+- High Discount Analysis
+- Low Profit Regions
+- Department Performance
+
+---
+
+# 📊 Excel Executive Report
+
+The project also includes an Executive Excel Report developed using:
+
+- Pivot Tables
+- Pivot Charts
+- KPIs
+- Conditional Formatting
+- Business Summary
+- Top 3 Performance Analysis
+- Low Performance Analysis
+- Executive Insights
+
+---
+
+# 🗄️ Database Design
+
+The project uses a **Star Schema** consisting of:
+
+### Fact Table
+
+- Fact_Sales
+
+### Dimension Tables
+
+- Dim_Customer
+- Dim_Product
+- Dim_Category
+- Dim_Department
+- Dim_Date
+
+---
+
+# 💻 SQL Analysis
+
+More than **45 SQL queries** were developed to analyze:
+
+- Total Sales
+- Total Profit
+- Monthly Sales
+- Regional Performance
+- Product Performance
+- Customer Analysis
+- Shipping Analysis
+- Ranking Functions
+- Window Functions
+- CTEs
+- KPI Calculations
+
+---
+
+# 📌 Business Insights
+
+- Fishing category generated the highest sales and profit.
+- Consumer customers contributed the highest revenue.
+- Western Europe was the best-performing region.
+- Standard Shipping generated the highest profitability.
+- Seasonal sales declined during November and December.
+- High discounts negatively impacted profitability.
+
+---
+
+# 💡 Recommendations
+
+- Increase inventory for high-demand products.
+- Optimize discount strategies.
+- Improve marketing for low-performing products.
+- Enhance logistics in delayed regions.
+- Continue investment in high-performing categories and regions.
+
+
+
+- Excel Executive Report
+- Power BI Dashboard
+- PostgreSQL Tables
+- Star Schema
+- SQL Queries
+
+---
+
+# 📂 Repository Contents
+
+```
+📁 Dataset
+📁 Excel Report
+📁 PostgreSQL
+📁 SQL Queries
+📁 Data Model
+📁 Power BI Dashboard
+📁 Images
+📄 Project Report.pdf
+📄 README.md
+```
+
+# 📄 Project Report
+
+The repository includes a detailed **42-page project report** covering:
+
+- Project Overview
+- ETL Process
+- Data Modeling
+- SQL Implementation
+- Excel Executive Report
+- Dashboard Analysis
+- Business Insights
+- Recommendations
+- Challenges
+- Learning Outcomes
+
+---
+
+# 👨‍💻 Author
+
+**Purab Upadhyay**
+
+📧 LinkedIn: https://www.linkedin.com/in/purab-upadhyay06/
+
+🐙 GitHub: https://github.com/purabupadhyay9000
+
+---
+
+## ⭐ If you found this project useful, consider giving this repository a Star!
